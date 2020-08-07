@@ -1,0 +1,7 @@
+//sudo sysctl fs.inotify.max_user_watches=582222 && sudo sysctl -p
+//commmand to stop internal client error
+
+
+
+rm -rf .git*
+//remove git file
